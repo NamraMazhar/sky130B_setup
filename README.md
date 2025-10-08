@@ -3,7 +3,7 @@ This repository provides a pre-configured SkyWater SKY130B PDK setup for use wit
 
 # Download
 The complete environment backup (.tar, ~13 GB) is available here:
-https://drive.usercontent.google.com/download?id=1cXZe3tQ_Io8PHcMgZlaRMDMgs9vexHrn&export=download&authuser=0
+https://drive.google.com/file/d/1cXZe3tQ_Io8PHcMgZlaRMDMgs9vexHrn/view?usp=sharing
 
 # Quick Setup
 1) Download the .tar file from the link above.
