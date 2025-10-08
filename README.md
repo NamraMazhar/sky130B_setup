@@ -11,7 +11,7 @@ https://drive.usercontent.google.com/download?id=1cXZe3tQ_Io8PHcMgZlaRMDMgs9vexH
                  tar -xvf sky130B_setup_backup.tar
 
 3) Import into WSL (example _ imported to drive E):
-                 wsl --import sky130B E:\sky130B_setup_backup\ .\sky130B_setup_backup.tar
+                 wsl --import sky130B E:\sky130B_setup_backup C:\Users\YourName\Downloads\sky130B_setup_backup.tar
 
 4) Launch your WSL environment and verify:
                  wsl -l -v
