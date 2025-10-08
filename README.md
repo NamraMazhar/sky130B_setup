@@ -19,9 +19,9 @@ https://drive.usercontent.google.com/download?id=1cXZe3tQ_Io8PHcMgZlaRMDMgs9vexH
 The sky130B instance should appear in the list.
 
 # Included Components
-SkyWater SKY130B PDK (130nm)
-Xschem Schematic Capture
-Ngspice Circuit Simulator
-Magic VLSI Layout Editor
-Pre-configured paths and environment setup
+1) SkyWater SKY130B PDK (130nm)
+2) Xschem Schematic Capture
+3) Ngspice Circuit Simulator
+4) Magic VLSI Layout Editor
+5) Pre-configured paths and environment setup
 
