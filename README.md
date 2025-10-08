@@ -7,16 +7,17 @@ https://drive.usercontent.google.com/download?id=1cXZe3tQ_Io8PHcMgZlaRMDMgs9vexH
 
 # Quick Setup
 1) Download the .tar file from the link above.
-2) Extract it to your desired location:
-                 tar -xvf sky130B_setup_backup.tar
 
-3) Import into WSL (example _ imported to drive E):
+2) To import into WSL, open PowerShell(as administrator) and run (example _ imported to drive E):
                  wsl --import sky130B E:\sky130B_setup_backup C:\Users\YourName\Downloads\sky130B_setup_backup.tar
 
-4) Launch your WSL environment and verify:
+3) Verify import by running:
                  wsl -l -v
-
 The sky130B instance should appear in the list.
+
+4) Launch and enter your imported sky130B WSL environment:
+                 wsl -d sky130B
+You’re now inside your Linux system with the Sky130 setup ready to use.
 
 # Included Components
 1) SkyWater SKY130B PDK (130nm)
